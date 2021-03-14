@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "RequestError: read ECONNRESET",
+      "children" : [ {
+        "name" : "Given I am on the Register page",
+        "uid" : "cfc5a0b9e924cb81",
+        "parentUid" : "7e230326c7ec1dec317285389f0b7e98",
+        "status" : "broken",
+        "time" : {
+          "start" : 1615750372731,
+          "stop" : 1615750381181,
+          "duration" : 8450
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-89.0.4389.82" ]
+      } ],
+      "uid" : "7e230326c7ec1dec317285389f0b7e98"
+    }, {
+      "name" : "Error: element (\"//*[contains(text(),'Sign in')]\") still not displayed after 30000ms",
+      "children" : [ {
+        "name" : "Given I am on the Register page",
+        "uid" : "40ab104ab74f63f8",
+        "parentUid" : "b85aebd7a2d3e9948af8680541710899",
+        "status" : "broken",
+        "time" : {
+          "start" : 1615750993096,
+          "stop" : 1615751038791,
+          "duration" : 45695
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-89.0.4389.82" ]
+      } ],
+      "uid" : "b85aebd7a2d3e9948af8680541710899"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

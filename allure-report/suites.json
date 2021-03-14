@@ -1,0 +1,329 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Register on the website: Register the User in Automation Practice Website",
+    "children" : [ {
+      "name" : "I am on the Register page",
+      "uid" : "254e6bfc04e6762c",
+      "parentUid" : "05b40e1d968702fcae4689963889b01b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615750178284,
+        "stop" : 1615750178284,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Given I am on the Register page",
+      "uid" : "6a80641cc97abf86",
+      "parentUid" : "05b40e1d968702fcae4689963889b01b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615750913654,
+        "stop" : 1615750933012,
+        "duration" : 19358
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "Given navigate to Web page",
+      "uid" : "6cec4f60094dbdaf",
+      "parentUid" : "05b40e1d968702fcae4689963889b01b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1615751552870,
+        "stop" : 0,
+        "duration" : -1615751552870
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "Register the details",
+      "uid" : "fca73ca228fcbf6",
+      "parentUid" : "05b40e1d968702fcae4689963889b01b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615751552922,
+        "stop" : 1615751552922,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "When Register the details",
+      "uid" : "ccd061d071b6f9a",
+      "parentUid" : "05b40e1d968702fcae4689963889b01b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1615751552922,
+        "stop" : 0,
+        "duration" : -1615751552922
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "navigate to Web page",
+      "uid" : "dfc3b95deb56671a",
+      "parentUid" : "05b40e1d968702fcae4689963889b01b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615751552922,
+        "stop" : 1615751552922,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "",
+      "uid" : "8fc56de92551c684",
+      "parentUid" : "05b40e1d968702fcae4689963889b01b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615751552923,
+        "stop" : 1615751552925,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "Sign Out the application",
+      "uid" : "616df4ac3ba389d1",
+      "parentUid" : "05b40e1d968702fcae4689963889b01b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615751552923,
+        "stop" : 1615751552923,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then Sign Out the application",
+      "uid" : "9edcf23f59e38dc3",
+      "parentUid" : "05b40e1d968702fcae4689963889b01b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1615751552923,
+        "stop" : 0,
+        "duration" : -1615751552923
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    } ],
+    "uid" : "05b40e1d968702fcae4689963889b01b"
+  }, {
+    "name" : "Login to Website: validate the registered user",
+    "children" : [ {
+      "name" : "I am on the Register page",
+      "uid" : "158a3de2935f42ee",
+      "parentUid" : "379b42fe8b8ddf30bb3c3ac3699b771d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615750178332,
+        "stop" : 1615750178332,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Given I am on the Register page",
+      "uid" : "cfc5a0b9e924cb81",
+      "parentUid" : "379b42fe8b8ddf30bb3c3ac3699b771d",
+      "status" : "broken",
+      "time" : {
+        "start" : 1615750372731,
+        "stop" : 1615750381181,
+        "duration" : 8450
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "I login with registered user",
+      "uid" : "d18494594b6c6efa",
+      "parentUid" : "379b42fe8b8ddf30bb3c3ac3699b771d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615750381181,
+        "stop" : 1615750381181,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then Sign Out the application",
+      "uid" : "5fee9a338ac5ae69",
+      "parentUid" : "379b42fe8b8ddf30bb3c3ac3699b771d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1615750381181,
+        "stop" : 0,
+        "duration" : -1615750381181
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "When I login with registered user",
+      "uid" : "3bd2ddc6d29d7e50",
+      "parentUid" : "379b42fe8b8ddf30bb3c3ac3699b771d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1615750381181,
+        "stop" : 0,
+        "duration" : -1615750381181
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "",
+      "uid" : "6a317295ef90bef9",
+      "parentUid" : "379b42fe8b8ddf30bb3c3ac3699b771d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615750381182,
+        "stop" : 1615750381183,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "Sign Out the application",
+      "uid" : "a88aeb86f36c1f76",
+      "parentUid" : "379b42fe8b8ddf30bb3c3ac3699b771d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615750381182,
+        "stop" : 1615750381182,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "379b42fe8b8ddf30bb3c3ac3699b771d"
+  }, {
+    "name" : "Register on the website: validate the registered user",
+    "children" : [ {
+      "name" : "Given I am on the Register page",
+      "uid" : "40ab104ab74f63f8",
+      "parentUid" : "7875818cbac35f30e3cfd76a9e0d552b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1615750993096,
+        "stop" : 1615751038791,
+        "duration" : 45695
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "navigate to Web page",
+      "uid" : "3972503a09aed15c",
+      "parentUid" : "7875818cbac35f30e3cfd76a9e0d552b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615751552962,
+        "stop" : 1615751552962,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "I login with registered user",
+      "uid" : "8fd25ccc56ee215a",
+      "parentUid" : "7875818cbac35f30e3cfd76a9e0d552b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615751552962,
+        "stop" : 1615751552962,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Sign Out the application",
+      "uid" : "ce54217ceef960a0",
+      "parentUid" : "7875818cbac35f30e3cfd76a9e0d552b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615751638046,
+        "stop" : 1615751638046,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Given navigate to Web page",
+      "uid" : "860d0fb582bd3fed",
+      "parentUid" : "7875818cbac35f30e3cfd76a9e0d552b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615751737586,
+        "stop" : 1615751758086,
+        "duration" : 20500
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "When I login with registered user",
+      "uid" : "b5892bfe695e54d7",
+      "parentUid" : "7875818cbac35f30e3cfd76a9e0d552b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615751758087,
+        "stop" : 1615751773770,
+        "duration" : 15683
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "Then Sign Out the application",
+      "uid" : "c633a15f811cc68b",
+      "parentUid" : "7875818cbac35f30e3cfd76a9e0d552b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615751773770,
+        "stop" : 1615751782353,
+        "duration" : 8583
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    }, {
+      "name" : "",
+      "uid" : "8aa9d66b343bda47",
+      "parentUid" : "7875818cbac35f30e3cfd76a9e0d552b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615751782353,
+        "stop" : 1615751782353,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.82" ]
+    } ],
+    "uid" : "7875818cbac35f30e3cfd76a9e0d552b"
+  } ]
+}
