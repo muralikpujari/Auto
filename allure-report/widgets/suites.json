@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "7875818cbac35f30e3cfd76a9e0d552b",
+    "name" : "Register on the website: validate the registered user",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 3,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "379b42fe8b8ddf30bb3c3ac3699b771d",
+    "name" : "Login to Website: validate the registered user",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 3,
+      "passed" : 1,
+      "unknown" : 2,
+      "total" : 7
+    }
+  }, {
+    "uid" : "05b40e1d968702fcae4689963889b01b",
+    "name" : "Register on the website: Register the User in Automation Practice Website",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 4,
+      "passed" : 2,
+      "unknown" : 3,
+      "total" : 9
+    }
+  } ]
+}

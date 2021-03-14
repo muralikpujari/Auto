@@ -1,0 +1,241 @@
+[ {
+  "uid" : "c633a15f811cc68b",
+  "name" : "Then Sign Out the application",
+  "time" : {
+    "start" : 1615751773770,
+    "stop" : 1615751782353,
+    "duration" : 8583
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "254e6bfc04e6762c",
+  "name" : "I am on the Register page",
+  "time" : {
+    "start" : 1615750178284,
+    "stop" : 1615750178284,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fca73ca228fcbf6",
+  "name" : "Register the details",
+  "time" : {
+    "start" : 1615751552922,
+    "stop" : 1615751552922,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8fc56de92551c684",
+  "name" : "",
+  "time" : {
+    "start" : 1615751552923,
+    "stop" : 1615751552925,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccd061d071b6f9a",
+  "name" : "When Register the details",
+  "time" : {
+    "start" : 1615751552922,
+    "stop" : 0,
+    "duration" : -1615751552922
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "6a317295ef90bef9",
+  "name" : "",
+  "time" : {
+    "start" : 1615750381182,
+    "stop" : 1615750381183,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfc3b95deb56671a",
+  "name" : "navigate to Web page",
+  "time" : {
+    "start" : 1615751552922,
+    "stop" : 1615751552922,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a88aeb86f36c1f76",
+  "name" : "Sign Out the application",
+  "time" : {
+    "start" : 1615750381182,
+    "stop" : 1615750381182,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3972503a09aed15c",
+  "name" : "navigate to Web page",
+  "time" : {
+    "start" : 1615751552962,
+    "stop" : 1615751552962,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "40ab104ab74f63f8",
+  "name" : "Given I am on the Register page",
+  "time" : {
+    "start" : 1615750993096,
+    "stop" : 1615751038791,
+    "duration" : 45695
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b5892bfe695e54d7",
+  "name" : "When I login with registered user",
+  "time" : {
+    "start" : 1615751758087,
+    "stop" : 1615751773770,
+    "duration" : 15683
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "860d0fb582bd3fed",
+  "name" : "Given navigate to Web page",
+  "time" : {
+    "start" : 1615751737586,
+    "stop" : 1615751758086,
+    "duration" : 20500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfc5a0b9e924cb81",
+  "name" : "Given I am on the Register page",
+  "time" : {
+    "start" : 1615750372731,
+    "stop" : 1615750381181,
+    "duration" : 8450
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8fd25ccc56ee215a",
+  "name" : "I login with registered user",
+  "time" : {
+    "start" : 1615751552962,
+    "stop" : 1615751552962,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6a80641cc97abf86",
+  "name" : "Given I am on the Register page",
+  "time" : {
+    "start" : 1615750913654,
+    "stop" : 1615750933012,
+    "duration" : 19358
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "616df4ac3ba389d1",
+  "name" : "Sign Out the application",
+  "time" : {
+    "start" : 1615751552923,
+    "stop" : 1615751552923,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8aa9d66b343bda47",
+  "name" : "",
+  "time" : {
+    "start" : 1615751782353,
+    "stop" : 1615751782353,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d18494594b6c6efa",
+  "name" : "I login with registered user",
+  "time" : {
+    "start" : 1615750381181,
+    "stop" : 1615750381181,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "158a3de2935f42ee",
+  "name" : "I am on the Register page",
+  "time" : {
+    "start" : 1615750178332,
+    "stop" : 1615750178332,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5fee9a338ac5ae69",
+  "name" : "Then Sign Out the application",
+  "time" : {
+    "start" : 1615750381181,
+    "stop" : 0,
+    "duration" : -1615750381181
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "9edcf23f59e38dc3",
+  "name" : "Then Sign Out the application",
+  "time" : {
+    "start" : 1615751552923,
+    "stop" : 0,
+    "duration" : -1615751552923
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "3bd2ddc6d29d7e50",
+  "name" : "When I login with registered user",
+  "time" : {
+    "start" : 1615750381181,
+    "stop" : 0,
+    "duration" : -1615750381181
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "ce54217ceef960a0",
+  "name" : "Sign Out the application",
+  "time" : {
+    "start" : 1615751638046,
+    "stop" : 1615751638046,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6cec4f60094dbdaf",
+  "name" : "Given navigate to Web page",
+  "time" : {
+    "start" : 1615751552870,
+    "stop" : 0,
+    "duration" : -1615751552870
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+} ]
